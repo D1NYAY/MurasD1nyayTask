@@ -1,4 +1,4 @@
-package com.example.muras.persentation.utils
+package com.example.muras.presentation.utils
 
 sealed class UIState<T>{
     class Loading<T>: UIState<T>()

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_settings.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_read.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_library.xml",
+        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_library.xml"
+    }
+]
