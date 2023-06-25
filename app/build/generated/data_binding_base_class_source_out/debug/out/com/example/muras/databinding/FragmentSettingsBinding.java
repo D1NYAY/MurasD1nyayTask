@@ -5,16 +5,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.muras.R;
 import com.google.android.material.switchmaterial.SwitchMaterial;
-import de.hdodenhof.circleimageview.CircleImageView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -36,7 +37,10 @@ public final class FragmentSettingsBinding implements ViewBinding {
   public final Button btnNotifications;
 
   @NonNull
-  public final CircleImageView profileImage;
+  public final ImageView ivPhoto;
+
+  @NonNull
+  public final CardView profileImage;
 
   @NonNull
   public final ConstraintLayout profileLayout;
@@ -55,8 +59,8 @@ public final class FragmentSettingsBinding implements ViewBinding {
 
   private FragmentSettingsBinding(@NonNull LinearLayout rootView, @NonNull Button btnEditProfile,
       @NonNull Button btnExit, @NonNull Button btnNightTheme, @NonNull Button btnNotifications,
-      @NonNull CircleImageView profileImage, @NonNull ConstraintLayout profileLayout,
-      @NonNull SwitchMaterial switchButtonNightTheme,
+      @NonNull ImageView ivPhoto, @NonNull CardView profileImage,
+      @NonNull ConstraintLayout profileLayout, @NonNull SwitchMaterial switchButtonNightTheme,
       @NonNull SwitchMaterial switchButtonNotifications, @NonNull TextView tvGmail,
       @NonNull TextView tvName) {
     this.rootView = rootView;
@@ -64,6 +68,7 @@ public final class FragmentSettingsBinding implements ViewBinding {
     this.btnExit = btnExit;
     this.btnNightTheme = btnNightTheme;
     this.btnNotifications = btnNotifications;
+    this.ivPhoto = ivPhoto;
     this.profileImage = profileImage;
     this.profileLayout = profileLayout;
     this.switchButtonNightTheme = switchButtonNightTheme;
@@ -123,8 +128,14 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.iv_photo;
+      ImageView ivPhoto = ViewBindings.findChildViewById(rootView, id);
+      if (ivPhoto == null) {
+        break missingId;
+      }
+
       id = R.id.profile_image;
-      CircleImageView profileImage = ViewBindings.findChildViewById(rootView, id);
+      CardView profileImage = ViewBindings.findChildViewById(rootView, id);
       if (profileImage == null) {
         break missingId;
       }
@@ -160,8 +171,8 @@ public final class FragmentSettingsBinding implements ViewBinding {
       }
 
       return new FragmentSettingsBinding((LinearLayout) rootView, btnEditProfile, btnExit,
-          btnNightTheme, btnNotifications, profileImage, profileLayout, switchButtonNightTheme,
-          switchButtonNotifications, tvGmail, tvName);
+          btnNightTheme, btnNotifications, ivPhoto, profileImage, profileLayout,
+          switchButtonNightTheme, switchButtonNotifications, tvGmail, tvName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

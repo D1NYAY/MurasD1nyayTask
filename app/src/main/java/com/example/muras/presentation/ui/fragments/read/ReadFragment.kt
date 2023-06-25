@@ -9,7 +9,9 @@ import androidx.lifecycle.ViewModelProvider
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.muras.R
 import com.example.muras.databinding.FragmentReadBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class ReadFragment : Fragment() {
 
     private val binding by viewBinding(FragmentReadBinding::bind)

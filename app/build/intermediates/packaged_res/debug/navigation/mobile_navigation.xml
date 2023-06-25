@@ -3,33 +3,33 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/settingsFragment">
+    app:startDestination="@+id/library">
 
     <fragment
         android:id="@+id/library"
-        android:name="com.example.muras.persentation.ui.fragments.library.LibraryFragment"
+        android:name="com.example.muras.presentation.ui.fragments.library.LibraryFragment"
         android:label="@string/library"
         tools:layout="@layout/fragment_library" />
 
     <fragment
         android:id="@+id/search"
-        android:name="com.example.muras.persentation.ui.fragments.search.SearchFragment"
+        android:name="com.example.muras.presentation.ui.fragments.search.SearchFragment"
         android:label="@string/search"
         tools:layout="@layout/fragment_search" />
 
     <fragment
         android:id="@+id/read"
-        android:name="com.example.muras.persentation.ui.fragments.read.ReadFragment"
+        android:name="com.example.muras.presentation.ui.fragments.read.ReadFragment"
         android:label="@string/read"
         tools:layout="@layout/fragment_read" />
     <fragment
         android:id="@+id/profile"
-        android:name="com.example.muras.persentation.ui.fragments.profile.ProfileFragment"
+        android:name="com.example.muras.presentation.ui.fragments.profile.ProfileFragment"
         android:label="@string/profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.example.muras.persentation.ui.fragments.profile.settings.SettingsFragment"
+        android:name="com.example.muras.presentation.ui.fragments.profile.settings.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>

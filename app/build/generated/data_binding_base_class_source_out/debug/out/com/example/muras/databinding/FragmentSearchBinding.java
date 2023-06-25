@@ -8,9 +8,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.muras.R;
+import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,12 +22,30 @@ public final class FragmentSearchBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textDashboard;
+  public final RecyclerView rvRecentRequest;
+
+  @NonNull
+  public final RecyclerView rvRecentlyWatched;
+
+  @NonNull
+  public final TextInputLayout searchLayout;
+
+  @NonNull
+  public final TextView tvRecentRequest;
+
+  @NonNull
+  public final TextView tvRecentlyWatched;
 
   private FragmentSearchBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textDashboard) {
+      @NonNull RecyclerView rvRecentRequest, @NonNull RecyclerView rvRecentlyWatched,
+      @NonNull TextInputLayout searchLayout, @NonNull TextView tvRecentRequest,
+      @NonNull TextView tvRecentlyWatched) {
     this.rootView = rootView;
-    this.textDashboard = textDashboard;
+    this.rvRecentRequest = rvRecentRequest;
+    this.rvRecentlyWatched = rvRecentlyWatched;
+    this.searchLayout = searchLayout;
+    this.tvRecentRequest = tvRecentRequest;
+    this.tvRecentlyWatched = tvRecentlyWatched;
   }
 
   @Override
@@ -55,13 +75,38 @@ public final class FragmentSearchBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_dashboard;
-      TextView textDashboard = ViewBindings.findChildViewById(rootView, id);
-      if (textDashboard == null) {
+      id = R.id.rv_recent_request;
+      RecyclerView rvRecentRequest = ViewBindings.findChildViewById(rootView, id);
+      if (rvRecentRequest == null) {
         break missingId;
       }
 
-      return new FragmentSearchBinding((ConstraintLayout) rootView, textDashboard);
+      id = R.id.rv_recently_watched;
+      RecyclerView rvRecentlyWatched = ViewBindings.findChildViewById(rootView, id);
+      if (rvRecentlyWatched == null) {
+        break missingId;
+      }
+
+      id = R.id.search_layout;
+      TextInputLayout searchLayout = ViewBindings.findChildViewById(rootView, id);
+      if (searchLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_recent_request;
+      TextView tvRecentRequest = ViewBindings.findChildViewById(rootView, id);
+      if (tvRecentRequest == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_recently_watched;
+      TextView tvRecentlyWatched = ViewBindings.findChildViewById(rootView, id);
+      if (tvRecentlyWatched == null) {
+        break missingId;
+      }
+
+      return new FragmentSearchBinding((ConstraintLayout) rootView, rvRecentRequest,
+          rvRecentlyWatched, searchLayout, tvRecentRequest, tvRecentlyWatched);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

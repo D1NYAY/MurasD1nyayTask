@@ -4,25 +4,67 @@ package com.example.muras.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
+import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.muras.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentProfileBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ConstraintLayout rootView;
 
-  private FragmentProfileBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final LinearLayout buttonLayout;
+
+  @NonNull
+  public final ImageView ivPhoto;
+
+  @NonNull
+  public final ImageView ivSettings;
+
+  @NonNull
+  public final CardView profileImage;
+
+  @NonNull
+  public final LinearLayout profileLayout;
+
+  @NonNull
+  public final RecyclerView rvBooks;
+
+  @NonNull
+  public final TextView tvGmail;
+
+  @NonNull
+  public final TextView tvName;
+
+  private FragmentProfileBinding(@NonNull ConstraintLayout rootView,
+      @NonNull LinearLayout buttonLayout, @NonNull ImageView ivPhoto, @NonNull ImageView ivSettings,
+      @NonNull CardView profileImage, @NonNull LinearLayout profileLayout,
+      @NonNull RecyclerView rvBooks, @NonNull TextView tvGmail, @NonNull TextView tvName) {
     this.rootView = rootView;
+    this.buttonLayout = buttonLayout;
+    this.ivPhoto = ivPhoto;
+    this.ivSettings = ivSettings;
+    this.profileImage = profileImage;
+    this.profileLayout = profileLayout;
+    this.rvBooks = rvBooks;
+    this.tvGmail = tvGmail;
+    this.tvName = tvName;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -43,10 +85,62 @@ public final class FragmentProfileBinding implements ViewBinding {
 
   @NonNull
   public static FragmentProfileBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.button_layout;
+      LinearLayout buttonLayout = ViewBindings.findChildViewById(rootView, id);
+      if (buttonLayout == null) {
+        break missingId;
+      }
 
-    return new FragmentProfileBinding((FrameLayout) rootView);
+      id = R.id.iv_photo;
+      ImageView ivPhoto = ViewBindings.findChildViewById(rootView, id);
+      if (ivPhoto == null) {
+        break missingId;
+      }
+
+      id = R.id.iv_settings;
+      ImageView ivSettings = ViewBindings.findChildViewById(rootView, id);
+      if (ivSettings == null) {
+        break missingId;
+      }
+
+      id = R.id.profile_image;
+      CardView profileImage = ViewBindings.findChildViewById(rootView, id);
+      if (profileImage == null) {
+        break missingId;
+      }
+
+      id = R.id.profile_layout;
+      LinearLayout profileLayout = ViewBindings.findChildViewById(rootView, id);
+      if (profileLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.rv_books;
+      RecyclerView rvBooks = ViewBindings.findChildViewById(rootView, id);
+      if (rvBooks == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_gmail;
+      TextView tvGmail = ViewBindings.findChildViewById(rootView, id);
+      if (tvGmail == null) {
+        break missingId;
+      }
+
+      id = R.id.tv_name;
+      TextView tvName = ViewBindings.findChildViewById(rootView, id);
+      if (tvName == null) {
+        break missingId;
+      }
+
+      return new FragmentProfileBinding((ConstraintLayout) rootView, buttonLayout, ivPhoto,
+          ivSettings, profileImage, profileLayout, rvBooks, tvGmail, tvName);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

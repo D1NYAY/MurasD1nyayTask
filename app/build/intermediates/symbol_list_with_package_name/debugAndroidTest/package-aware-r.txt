@@ -1,0 +1,3 @@
+com.example.muras.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

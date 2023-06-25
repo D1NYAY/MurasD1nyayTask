@@ -1,30 +1,74 @@
 [
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_profile.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_info.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_info.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_settings.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_settings.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_read.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_read.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_book.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.muras.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_privacy.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_privacy.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/item_recent_request.xml",
+        "source": "com.example.muras.app-main-52:/layout/item_recent_request.xml"
     },
     {
         "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_settings.xml",
         "source": "com.example.muras.app-main-52:/layout/fragment_settings.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_search.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_search.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/item_books_horizontal.xml",
+        "source": "com.example.muras.app-main-52:/layout/item_books_horizontal.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_read.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_read.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/item_reviews.xml",
+        "source": "com.example.muras.app-main-52:/layout/item_reviews.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\activity_main.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_library.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_library.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-mergeDebugResources-49:\\layout\\fragment_library.xml",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_library.xml"
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_support.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_support.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/item_favorites.xml",
+        "source": "com.example.muras.app-main-52:/layout/item_favorites.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_languages.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_languages.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_profile.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_search.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/item_library.xml",
+        "source": "com.example.muras.app-main-52:/layout/item_library.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_reviews.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "com.example.muras.app-mergeDebugResources-49:/layout/fragment_auth.xml",
+        "source": "com.example.muras.app-main-52:/layout/fragment_auth.xml"
     }
 ]

@@ -9,8 +9,8 @@ public abstract class BaseRepository {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    protected final <T extends java.lang.Object>kotlinx.coroutines.flow.Flow<com.example.muras.domain.utils.Resource<T>> doRequest(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    protected final <T extends java.lang.Object>kotlinx.coroutines.flow.Flow<com.example.muras.domain.utils.Resource<T>> doRequest(@org.jetbrains.annotations.NotNull
     kotlin.jvm.functions.Function1<? super kotlin.coroutines.Continuation<? super T>, ? extends java.lang.Object> request) {
         return null;
     }

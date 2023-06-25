@@ -1,158 +1,254 @@
 [
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_button_style_settings_profile.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\button_style_settings_profile.xml"
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "com.example.muras.app-merged_res-50:/font_ff_roboto_bold.ttf.flat",
+        "source": "com.example.muras.app-main-52:/font/ff_roboto_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_button_style_settings_profile_botton_radius.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\button_style_settings_profile_botton_radius.xml"
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\menu\\bottom_nav_menu.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_settings.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_settings.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.muras.app-merged_res-50:/layout_item_books_horizontal.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/item_books_horizontal.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_settings_profile.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_settings_profile.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_fragment_library.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_library.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_favorites.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_favorites.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.muras.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.muras.app-merged_res-50:/layout_item_recent_request.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/item_recent_request.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_fragment_read.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_read.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_book.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_book.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\activity_main.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_clear.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_clear.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_read.png.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_read.png"
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_library.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_library.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_button_style_settings_profile_top_radius.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\button_style_settings_profile_top_radius.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_settings_profile_left_radius.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_settings_profile_left_radius.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\navigation\\mobile_navigation.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_back.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_back.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_fragment_profile.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_profile.xml"
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_support.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_support.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\font_ff_roboto_medium.ttf.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\font\\ff_roboto_medium.ttf"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_settings_profile_right_radius.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_settings_profile_right_radius.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_no_favorites.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_no_favorites.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_back.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_back.xml"
+        "merged": "com.example.muras.app-merged_res-50:/layout_item_favorites.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/item_favorites.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.muras.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.example.muras.app-main-52:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_switch_track.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\switch_track.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_style_stroke_black.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/style_stroke_black.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_settings_profile_botton_radius.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_settings_profile_botton_radius.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_reviews.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_reviews.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_button_style_stroke.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\button_style_stroke.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_profile.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_profile.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_library.png.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_library.png"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_read.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_read.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_tv_privacy.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/tv_privacy.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_search.png.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_search.png"
+        "merged": "com.example.muras.app-merged_res-50:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.muras.app-main-52:/menu/bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_style_gray_radius.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/style_gray_radius.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_fragment_settings.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_settings.xml"
+        "merged": "com.example.muras.app-merged_res-50:/font_ff_roboto_regular.ttf.flat",
+        "source": "com.example.muras.app-main-52:/font/ff_roboto_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\layout_fragment_search.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\layout\\fragment_search.xml"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_library.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_library.png"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.muras.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_forward.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_forward.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_profile.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_item_reviews.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/item_reviews.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_star.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_star.png"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.muras.app-main-52:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_muras.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_muras.png"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_password.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_password.png"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_info.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_settings_profile_top_radius.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_settings_profile_top_radius.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_read.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_read.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/font_ff_roboto_medium.ttf.flat",
+        "source": "com.example.muras.app-main-52:/font/ff_roboto_medium.ttf"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_search.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_search.png"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_auth.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_languages.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_languages.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_privacy.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_privacy.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_book.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_fragment_search.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.muras.app-merged_res-50:/layout_item_library.xml.flat",
+        "source": "com.example.muras.app-main-52:/layout/item_library.xml"
     },
     {
         "merged": "com.example.muras.app-merged_res-50:/layout_fragment_settings.xml.flat",
         "source": "com.example.muras.app-main-52:/layout/fragment_settings.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_forward.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_forward.xml"
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\font_ff_roboto_regular.ttf.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\font\\ff_roboto_regular.ttf"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_button_style_stroke.xml.flat",
+        "source": "com.example.muras.app-main-52:/drawable/button_style_stroke.xml"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\drawable_ic_profile.png.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\drawable\\ic_profile.png"
+        "merged": "com.example.muras.app-merged_res-50:/drawable_ic_search2.png.flat",
+        "source": "com.example.muras.app-main-52:/drawable/ic_search2.png"
     },
     {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\font_ff_roboto_bold.ttf.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\font\\ff_roboto_bold.ttf"
-    },
-    {
-        "merged": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rippl\\.gradle\\daemon\\7.4\\com.example.muras.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.muras.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.muras.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
     }
 ]
